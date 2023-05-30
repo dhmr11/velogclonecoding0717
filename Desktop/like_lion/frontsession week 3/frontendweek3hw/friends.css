@@ -204,6 +204,12 @@ i{
     border:1px solid black;
     width:100%;
     justify-content: space-evenly;
-    flex-grow:1;
+    
     align-items: center;
+    height:10%;
+
+}
+a{  
+    color:black;
+    text-decoration-line: none;
 }
